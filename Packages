@@ -1,0 +1,7 @@
+Package: ash
+Version: 1.0
+Architecture: all
+Maintainer: you
+Description: Minimal Python shell (ash)
+Filename: ash.deb
+Size: 1592
