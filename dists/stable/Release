@@ -1,7 +1,27 @@
-Origin: ash-repo
-Label: ash-repo
+Codename: termux
+Version: 1
+Architectures: all
+Description: stable repository
 Suite: stable
-Codename: stable
-Architectures: aarch64
+Date: Sat, 04 Jul 2026 11:35:48 UTC
 Components: main
-Date: Sat, 04 Jul 2026 11:10:07 GMT
+MD5Sum:
+ 1cf114363523a07b4e4b7b81feb921c2 434 main/binary-all/Packages
+ 188ceb7de339e6e6eab744e621e95370 412 main/binary-all/Packages.xz
+ c7444c1d9c2b652519253d3a5becf3fd 85 main/Contents-all
+ b884ed7586d61a66b05838c5ee645bac 116 main/Contents-all.xz
+SHA1:
+ 9138984449c1a6a43600e4c778de243e2bc3bd84 434 main/binary-all/Packages
+ e12abae688d274504fc3dcfc3fcff824341983ee 412 main/binary-all/Packages.xz
+ 28d07e9f45596ff58c096df2e6f87162c63a1bb4 85 main/Contents-all
+ 54f29a74566a80a9d140f8da7bc04d90cac5bfe3 116 main/Contents-all.xz
+SHA256:
+ 1d7e67b19e8fc004910214516f6f587e79a691b50528a5a508fbf7ed1422c5c4 434 main/binary-all/Packages
+ c8a339bc832c1bd7eac6d0cb68261b19d6f152170fde9cb254c58b335588dddd 412 main/binary-all/Packages.xz
+ ba6965fdadee5d5bd4037fd52ca33a7b3512fc630aa75683493ce59217b12e4f 85 main/Contents-all
+ 8913528a058225c0b3b89fc5705dce8e76e0309edf5cd24da1b6c8a15141363a 116 main/Contents-all.xz
+SHA512:
+ b5be3d06c1a57f1fe736c5f0b606862c038997d0cd95f31e89cba9dbe95405c6739bb43c2792e23403b56f27e55e0971778b5384f015d7d67b2d1658581236d8 434 main/binary-all/Packages
+ c6c4be042f9e73455fbed07cce154c1c06ffb2232a932413b67a704b62ea8e573f8066c040f7ba3d4dadeece6dcc52bf16d5965df1d21fd36262318fb31fe822 412 main/binary-all/Packages.xz
+ d2987760e0b222bcb3354fb881379ae450a112359a6ada7331a6d7e57b7023deb4929554686e22feb743a745fbda3085d4f565bb6ffe8deaa2baff4fe9a5f824 85 main/Contents-all
+ 425f296a6bdbf0a829ec1b0d7c2952e8da159aa56c7b6d82d4451555919f1f85f2f137f4b7fb3c6dcaa0a492cc204e50e467d3057844ee5c185f9483fc266d86 116 main/Contents-all.xz

@@ -1,0 +1,12 @@
+Package: ash
+Version: 1.0
+Architecture: all
+Maintainer: you
+Description: ash
+Filename: dists/stable/main/binary-all/ash.deb
+Size: 1592
+MD5Sum: ec7da3c87307c1aabb85a10471b3665b
+SHA1: 7099766969df0c5e5025e52a341f5aec4e304324
+SHA256: 97dc56fdd746fe280e966f42f5a0e4db81eb381788a40e67520806f333606853
+SHA512: 8df2b060617744a191222fed1e34027a03ecc591e6e5dff967a28d19dee1e525ed577686c4390c81316f3a03a0662fd4dccf2c475925de38075d43d99c69c99e
+
