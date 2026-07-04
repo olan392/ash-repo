@@ -1,7 +1,7 @@
 Package: ash
 Version: 1.0
 Architecture: all
-Maintainer: you
+Maintainer: olan392
 Description: Minimal Python shell (ash)
-Filename: ash.deb
+Filename: pool/main/a/ash/ash.deb
 Size: 1592
