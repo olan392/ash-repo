@@ -2,6 +2,5 @@ Origin: ash-repo
 Label: ash-repo
 Suite: stable
 Codename: stable
-Architectures: aarch64
+Architectures: all
 Components: main
-Description: Ash Termux repository
